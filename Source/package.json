@@ -1,0 +1,23 @@
+{
+  "name": "restifyapp",
+  "version": "1.0.0",
+  "description": "Restify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "restify"
+  ],
+  "author": "1653009",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^7.2.1",
+    "restify-errors": "^8.0.2"
+  }
+}
